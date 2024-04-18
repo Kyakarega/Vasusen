@@ -1,6 +1,5 @@
 <h1 align="center">
-  <b>Save restricted content Bot
-      ❣️Bot Made By SKR❣️ </b>
+  <b>❣️Bot Made By SKR❣️</b>
 </h1> 
 
 Contact: [Telegram](https://t.me/MaheshChauhan)
