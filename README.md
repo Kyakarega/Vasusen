@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>❣️Bot Made By SKR❣️</b>
+  <b>❣️Bot Made By ◦•●❤♡  𝐌𝐈𝐂𝐊𝐘 ♡❤●•◦</b>
 </h1> 
 
 Contact: [Telegram](https://t.me/MaheshChauhan)
